@@ -1,0 +1,8 @@
+build/main
+build/main/*.*
+build
+PDFPNG/Png
+dist
+teseract
+poppler-0.67.0
+*.mp3

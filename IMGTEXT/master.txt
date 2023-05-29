@@ -1,0 +1,4 @@
+If you're a developer, and you hang out on developer Twitter, then you'll have
+seen people sharing their hot code tips. They're often accompanied by code
+
+examples and the “hot tip" fire @ or lightbulb Q emojis.
